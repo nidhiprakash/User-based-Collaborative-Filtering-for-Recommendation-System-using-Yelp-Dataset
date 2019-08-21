@@ -4,7 +4,7 @@ Recommender systems are a relatively new technology that is commonly being used 
 
 User-based Collaborative Filtering for Recommendation System using Yelp Dataset
 
-Dependencies
+Dependencies:
 •	Python 3
 •	pySpark
 •	Jupyter Notebook
